@@ -1,0 +1,31 @@
+# ---- Swift Package Manager ----
+.build/
+.swiftpm/
+Package.resolved
+
+# ---- Xcode ----
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# ---- Build / app bundle output ----
+*.app/
+DockSnap.app/
+
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- Local secrets / runtime ----
+*.keychain-db
+/tmp/docksnap.log
