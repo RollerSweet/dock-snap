@@ -42,15 +42,11 @@ DockSnap maps keyboard shortcuts to your Dock so your hands never leave the keyb
 
 ## 🖼️ Screenshots
 
-> _Add your own screenshots to `docs/screenshots/` — see the filenames listed there._
+Click the menu-bar icon to open Settings. Two tabs cover everything:
 
-| Menu-bar popover — Automatic | Menu-bar popover — Manual |
+| **Automatic** — pick a modifier, then ⌥1–9 hit your Dock | **Manual** — bind a custom shortcut to any app |
 |:---:|:---:|
-| ![Automatic tab](docs/screenshots/automatic-tab.png) | ![Manual tab](docs/screenshots/manual-tab.png) |
-
-| In the menu bar | Accessibility permission |
-|:---:|:---:|
-| ![Menu bar](docs/screenshots/menubar.png) | ![Accessibility](docs/screenshots/accessibility.png) |
+| <img src="docs/screenshots/automatic-tab.png" alt="Automatic tab" width="340" /> | <img src="docs/screenshots/manual-tab.png" alt="Manual tab" width="340" /> |
 
 ---
 
