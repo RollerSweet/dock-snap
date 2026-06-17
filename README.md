@@ -42,11 +42,7 @@ DockSnap maps keyboard shortcuts to your Dock so your hands never leave the keyb
 
 ## 🖼️ Screenshots
 
-DockSnap lives quietly in your menu bar:
-
-<p align="center"><img src="docs/screenshots/menubar.png" alt="DockSnap in the macOS menu bar" width="430" /></p>
-
-Click its icon to open Settings — two tabs cover everything:
+DockSnap lives quietly in your menu bar. Click its icon to open Settings — two tabs cover everything:
 
 | **Automatic** — pick a modifier, then ⌥1–9 hit your Dock | **Manual** — bind a custom shortcut to any app |
 |:---:|:---:|
